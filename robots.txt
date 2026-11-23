@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Replace this placeholder with your published sitemap URL.
-Sitemap: https://YOUR-USERNAME.github.io/delvin-personal-website/sitemap.xml
