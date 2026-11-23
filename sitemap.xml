@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Replace YOUR-USERNAME with your GitHub username and adjust the base path if needed. -->
-  <url><loc>https://YOUR-USERNAME.github.io/delvin-personal-website/</loc></url>
-  <url><loc>https://YOUR-USERNAME.github.io/delvin-personal-website/about.html</loc></url>
-  <url><loc>https://YOUR-USERNAME.github.io/delvin-personal-website/technology.html</loc></url>
-  <url><loc>https://YOUR-USERNAME.github.io/delvin-personal-website/projects.html</loc></url>
-</urlset>
