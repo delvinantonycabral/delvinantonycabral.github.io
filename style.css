@@ -715,7 +715,7 @@ ul, ol {
 }
 
 /* ==========================================================================
-   ARCHITECTURAL SHOWCASE MOCKUPS (CAREGIVER, KERNELLAB, AI, GRAPHIT, SONAR)
+   ARCHITECTURAL SHOWCASE MOCKUPS (CAREGIVER, KERNELLAB, AI, GRAPHITE, SONAR)
    ========================================================================== */
 .showcase-stage {
   background-color: #131311;
@@ -1165,8 +1165,8 @@ ul, ol {
   color: var(--text-secondary);
 }
 
-/* The Graphit Corner Preview */
-.graphit-preview {
+/* The Graphite Corner Preview */
+.graphite-preview {
   display: grid;
   grid-template-columns: 1.2fr 0.8fr;
   gap: 2rem;
@@ -1174,25 +1174,25 @@ ul, ol {
   align-items: center;
 }
 
-.graphit-editorial h4 {
+.graphite-editorial h4 {
   font-family: var(--font-serif);
   font-size: 2.1rem;
   font-weight: 500;
   margin: 0.5rem 0 0.85rem;
 }
 
-.graphit-editorial p {
+.graphite-editorial p {
   color: var(--text-secondary);
   margin-bottom: 1.25rem;
 }
 
-.graphit-tags {
+.graphite-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
 }
 
-.graphit-tags span {
+.graphite-tags span {
   font-family: var(--font-mono);
   font-size: 0.68rem;
   padding: 0.3rem 0.65rem;
@@ -1200,7 +1200,7 @@ ul, ol {
   color: var(--accent-gold);
 }
 
-.graphit-sketch-frame {
+.graphite-sketch-frame {
   display: flex;
   justify-content: center;
 }
